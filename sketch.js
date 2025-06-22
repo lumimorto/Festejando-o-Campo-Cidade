@@ -183,7 +183,7 @@ let dialogos = [{ // João, agricultor
 ];
 
 function setup() {
-  createCanvas(1920, 1080);
+  createCanvas(1720, 880);
 
   botaoIniciar = {
     x: width / 2 - 100,
